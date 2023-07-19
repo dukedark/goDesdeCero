@@ -1,11 +1,11 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/dukedark/goDesdeCero/variables/ejercicios"
+	"github.com/dukedark/goDesdeCero/teclado"
 )
 
 func main() {
-	fmt.Println(ejercicios.Ejercicio1("250"))
+	// fmt.Println(ejercicios.Ejercicio1("250"))
+
+	teclado.IngresoNumeros()
 }
