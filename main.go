@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/dukedark/goDesdeCero/teclado"
+	"github.com/dukedark/goDesdeCero/variables/ejercicios"
 )
 
 func main() {
 	// fmt.Println(ejercicios.Ejercicio1("250"))
-
-	teclado.IngresoNumeros()
+	// iteraciones.Iteraciones()
+	ejercicios.TablaDeMultiplicar()
 }
