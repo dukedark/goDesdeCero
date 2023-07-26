@@ -12,5 +12,5 @@ func main() {
 	// files.AddTabla()
 	// files.FileRead2()
 	// funciones.Calculos()
-	funciones.LlamarClosure()
+	funciones.Exponenecia(2)
 }
