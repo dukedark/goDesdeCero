@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dukedark/goDesdeCero/files"
+	"github.com/dukedark/goDesdeCero/funciones"
 )
 
 func main() {
@@ -10,5 +10,7 @@ func main() {
 	// ejercicios.TablaDeMultiplicar()
 	// files.FileSave()
 	// files.AddTabla()
-	files.FileRead2()
+	// files.FileRead2()
+	// funciones.Calculos()
+	funciones.LlamarClosure()
 }
