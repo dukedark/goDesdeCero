@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dukedark/goDesdeCero/funciones"
+	"github.com/dukedark/goDesdeCero/arreglos_slices"
 )
 
 func main() {
@@ -12,5 +12,6 @@ func main() {
 	// files.AddTabla()
 	// files.FileRead2()
 	// funciones.Calculos()
-	funciones.Exponenecia(2)
+	// funciones.Exponenecia(2)
+	arreglos_slices.Capacidad()
 }
