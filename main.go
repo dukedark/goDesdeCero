@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dukedark/goDesdeCero/arreglos_slices"
+	"github.com/dukedark/goDesdeCero/mapas"
 )
 
 func main() {
@@ -13,5 +13,6 @@ func main() {
 	// files.FileRead2()
 	// funciones.Calculos()
 	// funciones.Exponenecia(2)
-	arreglos_slices.Capacidad()
+	// arreglos_slices.Capacidad()
+	mapas.MostrarMpas()
 }
